@@ -29,7 +29,7 @@ google_analitycs_id = "UA-25510189-1"
 home = "Home"
 logo = "images/logo1.svg"
 phone = "+31 6 24 358 682"
-theme_color = "#41228e"
+theme_color = "#dc3545"
 [params.contact]
 enable = true
 form_action = "https://getform.io/f/ead64fdb-c69e-4bc6-b241-69136a787eb5"

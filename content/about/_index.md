@@ -3,7 +3,7 @@ title: About
 date: 2020-09-05T08:14:34+02:00
 description: Burak Kucukparmaksiz | I am a front end developer
 author_image: "/images/img_4944.jpg"
-author_signature: "/images/burakkp.svg"
+author_signature: "/images/about/signature.png"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.

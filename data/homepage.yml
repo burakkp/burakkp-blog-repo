@@ -16,6 +16,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: CSS (Less, SCSS, CSS in JS)
+    progress: 100%
+    color: "#e673d3"
   - title: JavaScript
     progress: 100%
     color: "#f7df1e"

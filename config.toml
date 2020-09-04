@@ -57,7 +57,7 @@ icon = "ti-skype"
 URL = "https://www.linkedin.com/in/burakkp/"
 icon = "ti-linkedin"
 [[params.social]]
-URL = "#"
+URL = "https://www.instagram.com/burakkp/"
 icon = "ti-instagram"
 [[params.social]]
 URL = "https://dribbble.com/burakkp"

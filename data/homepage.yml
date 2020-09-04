@@ -16,6 +16,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: JavaScript
+    progress: 100%
+    color: "#f7df1e"
   - title: Front End Development
     progress: 100%
     color: "#f7df1e"

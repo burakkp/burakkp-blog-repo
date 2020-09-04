@@ -51,12 +51,6 @@ education:
   enable: true
   title: Education
   item:
-  - title: Marters in UX Design
-    year: "2006"
-    academy: Masassusets Institute of Technology
-  - title: Honours in Fine Arts
-    year: "2004"
-    academy: Harvard University
   - title: Computer Technologies and Programming
     year: 2006-2009
     academy: Ondokuz Mayis University

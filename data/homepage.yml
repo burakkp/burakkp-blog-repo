@@ -16,6 +16,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: React.js
+    progress: 80%
+    color: "#61dafb"
   - title: CSS (Less, SCSS, CSS in JS)
     progress: 100%
     color: "#e673d3"

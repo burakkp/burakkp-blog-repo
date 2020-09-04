@@ -16,6 +16,9 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Vue.js
+    progress: 70%
+    color: "#4fc08d"
   - title: React.js
     progress: 80%
     color: "#61dafb"

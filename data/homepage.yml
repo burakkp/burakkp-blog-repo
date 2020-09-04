@@ -16,18 +16,15 @@ skill:
   enable: true
   title: Skills
   item:
+  - title: Front End Development
+    progress: 100%
+    color: "#f7df1e"
   - title: Web Design
     progress: 90%
     color: "#fdb157"
   - title: Logo Design
     progress: 60%
     color: "#9473e6"
-  - title: After Effects
-    progress: 80%
-    color: "#bdecf6"
-  - title: Web App
-    progress: 70%
-    color: "#ffbcaa"
 experience:
   enable: true
   title: Experience

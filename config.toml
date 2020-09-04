@@ -32,7 +32,7 @@ phone = "+31 6 24 358 682"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "to:me@burakkp.com"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]

@@ -27,7 +27,7 @@ description = "I am a Front End Developer - Burak Kucukparmaksiz"
 email = "me@burakkp.com"
 google_analitycs_id = "UA-25510189-1"
 home = "Home"
-logo = "images/Logo.png"
+logo = "images/logo.png"
 phone = "+31 6 24 358 682"
 theme_color = "#41228e"
 [params.contact]

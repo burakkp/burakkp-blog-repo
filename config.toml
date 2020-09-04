@@ -52,13 +52,10 @@ enable = true
 preloader = ""
 [[params.social]]
 URL = "#"
-icon = "ti-facebook"
-[[params.social]]
-URL = "#"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
 icon = "ti-dribbble"
 [[params.social]]
-URL = "#"
+URL = "https://twitter.com/eburakkp"
 icon = "ti-twitter-alt"

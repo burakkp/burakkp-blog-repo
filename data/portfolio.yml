@@ -3,6 +3,10 @@ item:
 - image: "/images/nuhr.png"
   project_url: https://www.nuhr.nl/
   category:
+  - frontend
+- image: "/images/nuhr.png"
+  project_url: https://www.nuhr.nl/
+  category:
   - front end
 - image: images/portfolio/item-1.png
   project_url: http://examplesite.com

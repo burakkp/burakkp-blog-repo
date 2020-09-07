@@ -2,8 +2,7 @@
 item:
 - image: "/images/nuhr.png"
   project_url: https://www.nuhr.nl/
-  category:
-  - Front End
+  category: []
 - image: images/portfolio/item-1.png
   project_url: http://examplesite.com
   category: design

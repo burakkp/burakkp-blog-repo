@@ -3,7 +3,7 @@ item:
 - image: "/images/nuhr.png"
   project_url: https://www.nuhr.nl/
   category:
-  - frontend
+  - Front End
 clients_logo_slider:
   enable: false
   title: My Clients

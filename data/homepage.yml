@@ -42,6 +42,10 @@ experience:
   title: Experience
   item:
   - logo: images/experience/icon-1.png
+    title: Full Stack Developer
+    company: 'Freelance '
+    duration: Sep 2017 - Sep 2018
+  - logo: images/experience/icon-1.png
     title: Front End Developer
     company: Ceviz Information Technologies
     duration: Oct 2012 - Jun 2015

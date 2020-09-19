@@ -1,5 +1,8 @@
 ---
 item:
+- image: "/images/fysio.png"
+  project_url: https://www.fysio-en-manueletherapieamerongen.nl/
+  category: ''
 - image: "/images/atlasfly.png"
   project_url: https://www.atlasfly.nl/
   category: ''

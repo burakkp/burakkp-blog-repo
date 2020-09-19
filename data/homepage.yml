@@ -57,6 +57,10 @@ experience:
     title: Full Stack Developer
     company: 'Freelance '
     duration: Sep 2017 - Sep 2018
+  - logo: images/experience/icon-2.png
+    title: Front End Engineer
+    company: Intero Integrity Services
+    duration: Sep 2018 - Aug 2020
 education:
   enable: true
   title: Education

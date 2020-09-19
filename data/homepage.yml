@@ -75,8 +75,8 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
-    icon: ti-palette
+  - title: Web Design
+    icon: ti-desktop
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false

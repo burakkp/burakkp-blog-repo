@@ -7,4 +7,6 @@ item:
 clients_logo_slider:
   enable: false
   title: My Clients
-  item: []
+  item:
+  - logo: ''
+    URL: ''

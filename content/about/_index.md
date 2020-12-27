@@ -6,8 +6,8 @@ author_image: "/images/img_4944.jpg"
 author_signature: "/images/about/signature.png"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+I studied computer science at vocational high school and the University of Ondokuz Mayis. After education, I worked in various areas as a system administrator, analyst, and test developer. I am specialized in developing Front-End Technologies.  
+  
+I have worked for Microsoft, Coca-Cola, Eczacibasi, Nuhr B.V., and Corendon. My roles in projects included migration processes, application design/development, and bug fixes.  
+  
+I started Capgemini on the 1st of November 2020

@@ -41,6 +41,10 @@ experience:
   enable: true
   title: Experience
   item:
+  - logo: ''
+    title: ''
+    company: ''
+    duration: ''
   - logo: images/experience/icon-1.png
     title: Front End Developer
     company: Ceviz Information Technologies

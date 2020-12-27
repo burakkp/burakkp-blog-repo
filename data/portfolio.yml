@@ -1,5 +1,9 @@
 ---
 item:
+- image: "/images/seknl.png"
+  project_url: https://www.s-ek.nl/
+  category:
+  - Front End
 - image: "/images/fysio.png"
   project_url: https://www.fysio-en-manueletherapieamerongen.nl/
   category: ''

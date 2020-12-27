@@ -61,10 +61,10 @@ experience:
     title: Front End Engineer
     company: Intero Integrity Services
     duration: Sep 2018 - Aug 2020
-  - logo: images/experience/icon-2.png
+  - logo: images/experience/icon-1.png
     title: Software Engineer
     company: Capgemini Nederland
-    duration: Nov 2020- Recent
+    duration: Nov 2020 - Recent
 education:
   enable: true
   title: Education

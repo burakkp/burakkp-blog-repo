@@ -20,7 +20,7 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "Liendenlaan 157, 4006 CE, Tiel Netherlands"
+address = "Willem marisstraat 70, 4003 KP, Tiel Netherlands"
 author = "Burak Kucukparmaksiz"
 copyright = "Copyrighht &copy; 2020 "
 description = "I am a Front End Developer - Burak Kucukparmaksiz"

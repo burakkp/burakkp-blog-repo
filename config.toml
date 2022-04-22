@@ -16,7 +16,7 @@ URL = "portfolio"
 name = "Portfolio"
 weight = 4
 [params]
-address = "Willem marisstraat 70, 4003 KP, Tiel Netherlands"
+address = ""
 author = "Burak Kucukparmaksiz"
 copyright = "Copyrighht &copy; 2020 "
 description = "I am a Front End Developer - Burak Kucukparmaksiz"

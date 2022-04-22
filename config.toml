@@ -4,17 +4,17 @@ summaryLength = "10"
 theme = "kross-hugo"
 title = "Burak Kucukparmaksiz | Front End Developer"
 [[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 3
+URL = "about"
+name = "About"
+weight = 2
 [[menu.main]]
 URL = "blog"
 name = "Blog"
-weight = 2
+weight = 3
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "portfolio"
+name = "Portfolio"
+weight = 4
 [params]
 address = "Willem marisstraat 70, 4003 KP, Tiel Netherlands"
 author = "Burak Kucukparmaksiz"
@@ -27,7 +27,7 @@ logo = "images/logo1.svg"
 phone = "+31 6 24 358 682"
 theme_color = "#dc3545"
 [params.contact]
-enable = true
+enable = false
 form_action = "https://getform.io/f/ead64fdb-c69e-4bc6-b241-69136a787eb5"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
